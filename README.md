@@ -1,4 +1,6 @@
+**Tags**: #Autenticação&autorização #Docker #Fastify #JavaScript #Markdown #Node #Prisma
 
+#MovieNotesAPI #api_movie_note 
 # Api Movie Note
 
 O projeto agora é criar uma API de avaliação para filmes. Essa API permitirá cadastrar um filme e atribuir uma nota de 0 a 5, além de possibilitar a criação de usuários, retorno das notas e dos filmes que esse usuário cadastrou.
