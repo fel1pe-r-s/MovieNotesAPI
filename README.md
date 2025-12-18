@@ -1,4 +1,4 @@
-**Tags**: #Autenticação&autorização #Docker #Fastify #JavaScript #Markdown #Node #Prisma
+**Tags**: #Autenticação&autorização #Database #Docker #Fastify #JavaScript #Markdown #Node #Prisma
 
 #MovieNotesAPI #api_movie_note 
 # Api Movie Note
